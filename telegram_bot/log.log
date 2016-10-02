@@ -1,0 +1,272 @@
+ERROR   [2016-09-02 17:03:43,867] Error getting updates
+ERROR   [2016-09-02 17:03:48,932] Error getting updates
+ERROR   [2016-09-02 17:03:53,996] Error getting updates
+ERROR   [2016-09-02 17:03:59,067] Error getting updates
+ERROR   [2016-09-02 17:04:04,135] Error getting updates
+ERROR   [2016-09-02 17:04:09,236] Error getting updates
+ERROR   [2016-09-02 17:04:14,341] Error getting updates
+ERROR   [2016-09-02 17:04:19,406] Error getting updates
+ERROR   [2016-09-02 17:04:24,511] Error getting updates
+ERROR   [2016-09-02 17:04:29,581] Error getting updates
+ERROR   [2016-09-02 17:04:34,650] Error getting updates
+ERROR   [2016-09-02 17:04:39,756] Error getting updates
+ERROR   [2016-09-02 17:04:44,863] Error getting updates
+ERROR   [2016-09-02 17:04:49,929] Error getting updates
+ERROR   [2016-09-02 17:04:54,994] Error getting updates
+ERROR   [2016-09-02 17:05:00,068] Error getting updates
+ERROR   [2016-09-02 17:05:05,142] Error getting updates
+ERROR   [2016-09-02 17:05:10,255] Error getting updates
+ERROR   [2016-09-02 17:05:15,322] Error getting updates
+ERROR   [2016-09-02 17:05:20,395] Error getting updates
+ERROR   [2016-09-02 17:05:25,533] Error getting updates
+ERROR   [2016-09-02 17:05:30,644] Error getting updates
+ERROR   [2016-09-02 17:05:35,759] Error getting updates
+ERROR   [2016-09-02 17:05:40,837] Error getting updates
+ERROR   [2016-09-02 17:05:45,903] Error getting updates
+ERROR   [2016-09-02 17:05:51,017] Error getting updates
+ERROR   [2016-09-02 17:05:56,132] Error getting updates
+ERROR   [2016-09-02 17:06:01,206] Error getting updates
+ERROR   [2016-09-02 17:06:06,280] Error getting updates
+ERROR   [2016-09-02 17:06:11,347] Error getting updates
+ERROR   [2016-09-02 17:06:16,539] Error getting updates
+ERROR   [2016-09-02 17:06:21,650] Error getting updates
+ERROR   [2016-09-02 17:06:26,727] Error getting updates
+ERROR   [2016-09-02 17:06:31,793] Error getting updates
+ERROR   [2016-09-02 17:06:36,862] Error getting updates
+ERROR   [2016-09-02 17:06:41,931] Error getting updates
+ERROR   [2016-09-02 17:06:47,033] Error getting updates
+ERROR   [2016-09-02 17:06:52,139] Error getting updates
+ERROR   [2016-09-02 17:06:57,208] Error getting updates
+ERROR   [2016-09-02 17:07:02,272] Error getting updates
+ERROR   [2016-09-02 17:07:07,425] Error getting updates
+ERROR   [2016-09-02 17:07:12,490] Error getting updates
+INFO    [2016-09-03 13:35:08,835] Message (id606877209) from Анна (id209524069): "/stream1"
+INFO    [2016-09-03 13:35:08,836] Sending to 209524069: Вы не авторизованы. Пожалуйста, введите пароль в течение 60 секунд.
+INFO    [2016-09-03 13:35:21,432] Message (id606877210) from Анна (id209524069): "secret_password"
+INFO    [2016-09-03 13:35:21,435] Sending to 209524069: Вы авторизованы как администратор на один час.
+INFO    [2016-09-03 13:35:22,349] Sending to 209524069: Запущена трансляция видео с камеры 1
+ERROR   [2016-09-06 21:17:39,509] Error getting updates
+ERROR   [2016-09-06 21:17:44,590] Error getting updates
+ERROR   [2016-09-06 21:17:54,760] Error getting updates
+ERROR   [2016-09-06 21:17:59,843] Error getting updates
+ERROR   [2016-09-06 21:18:04,910] Error getting updates
+ERROR   [2016-09-06 21:18:09,986] Error getting updates
+ERROR   [2016-09-06 21:18:15,055] Error getting updates
+ERROR   [2016-09-06 21:18:44,068] Error getting updates
+ERROR   [2016-09-06 21:18:49,233] Error getting updates
+ERROR   [2016-09-06 21:18:54,307] Error getting updates
+ERROR   [2016-09-06 21:18:59,374] Error getting updates
+ERROR   [2016-09-06 21:19:04,437] Error getting updates
+ERROR   [2016-09-06 21:19:09,546] Error getting updates
+ERROR   [2016-09-06 21:19:14,626] Error getting updates
+ERROR   [2016-09-06 21:19:19,694] Error getting updates
+ERROR   [2016-09-06 21:19:24,766] Error getting updates
+ERROR   [2016-09-06 21:19:29,892] Error getting updates
+ERROR   [2016-09-06 21:19:34,963] Error getting updates
+ERROR   [2016-09-06 21:19:40,030] Error getting updates
+ERROR   [2016-09-06 21:19:45,097] Error getting updates
+ERROR   [2016-09-06 21:19:50,183] Error getting updates
+ERROR   [2016-09-06 21:19:55,296] Error getting updates
+ERROR   [2016-09-06 21:20:00,375] Error getting updates
+ERROR   [2016-09-06 21:20:05,456] Error getting updates
+ERROR   [2016-09-06 21:20:10,532] Error getting updates
+ERROR   [2016-09-06 21:20:15,656] Error getting updates
+ERROR   [2016-09-06 21:20:20,731] Error getting updates
+ERROR   [2016-09-06 21:20:25,801] Error getting updates
+ERROR   [2016-09-06 21:20:30,868] Error getting updates
+ERROR   [2016-09-06 21:20:35,940] Error getting updates
+ERROR   [2016-09-06 21:20:41,059] Error getting updates
+ERROR   [2016-09-06 21:20:46,136] Error getting updates
+ERROR   [2016-09-06 21:20:51,225] Error getting updates
+ERROR   [2016-09-06 21:20:56,334] Error getting updates
+ERROR   [2016-09-06 21:21:01,408] Error getting updates
+ERROR   [2016-09-06 21:21:06,511] Error getting updates
+ERROR   [2016-09-06 21:21:11,605] Error getting updates
+ERROR   [2016-09-06 21:21:16,689] Error getting updates
+ERROR   [2016-09-06 21:21:21,768] Error getting updates
+ERROR   [2016-09-06 21:21:26,838] Error getting updates
+ERROR   [2016-09-06 21:21:31,946] Error getting updates
+ERROR   [2016-09-06 21:21:37,025] Error getting updates
+ERROR   [2016-09-06 21:21:42,093] Error getting updates
+ERROR   [2016-09-06 21:21:47,208] Error getting updates
+ERROR   [2016-09-06 21:21:52,277] Error getting updates
+ERROR   [2016-09-06 21:21:57,458] Error getting updates
+ERROR   [2016-09-06 21:22:02,535] Error getting updates
+ERROR   [2016-09-06 21:22:07,643] Error getting updates
+ERROR   [2016-09-06 21:22:12,723] Error getting updates
+ERROR   [2016-09-06 21:22:17,800] Error getting updates
+ERROR   [2016-09-06 21:22:22,909] Error getting updates
+ERROR   [2016-09-06 21:22:28,347] Error getting updates
+ERROR   [2016-09-06 21:22:33,456] Error getting updates
+ERROR   [2016-09-06 21:22:38,571] Error getting updates
+ERROR   [2016-09-06 21:22:43,681] Error getting updates
+ERROR   [2016-09-06 21:22:48,807] Error getting updates
+ERROR   [2016-09-06 21:22:53,917] Error getting updates
+ERROR   [2016-09-06 21:22:59,048] Error getting updates
+ERROR   [2016-09-06 21:23:04,152] Error getting updates
+ERROR   [2016-09-06 21:23:09,276] Error getting updates
+ERROR   [2016-09-06 21:23:14,394] Error getting updates
+ERROR   [2016-09-06 21:23:19,532] Error getting updates
+ERROR   [2016-09-06 21:23:24,646] Error getting updates
+ERROR   [2016-09-06 21:23:29,723] Error getting updates
+ERROR   [2016-09-06 21:23:34,796] Error getting updates
+ERROR   [2016-09-06 21:23:39,920] Error getting updates
+ERROR   [2016-09-06 21:23:45,031] Error getting updates
+ERROR   [2016-09-06 21:23:50,155] Error getting updates
+ERROR   [2016-09-06 21:23:55,264] Error getting updates
+ERROR   [2016-09-06 21:24:00,406] Error getting updates
+ERROR   [2016-09-06 21:24:05,482] Error getting updates
+ERROR   [2016-09-06 21:24:10,550] Error getting updates
+ERROR   [2016-09-06 21:24:15,627] Error getting updates
+ERROR   [2016-09-06 21:24:20,739] Error getting updates
+ERROR   [2016-09-06 21:24:25,813] Error getting updates
+ERROR   [2016-09-06 21:24:30,922] Error getting updates
+INFO    [2016-09-07 19:01:26,460] Message (id606877211) from Анна (id209524069): "Привет"
+INFO    [2016-09-07 19:01:26,468] Sending to 209524069: Вы не авторизованы. Пожалуйста, введите пароль в течение 60 секунд.
+INFO    [2016-09-07 19:01:50,633] Message (id606877212) from Анна (id209524069): "secret_password"
+INFO    [2016-09-07 19:01:50,635] Sending to 209524069: Вы авторизованы как администратор на один час.
+INFO    [2016-09-07 19:01:51,495] Sending to 209524069: Такой команды нет. Чтобы посмотреть список доступных команд, введите /help
+INFO    [2016-09-07 19:03:14,152] Message (id606877213) from Анна (id209524069): "/help"
+INFO    [2016-09-07 19:03:14,154] Sending to 209524069: /photo - получить фото с обеих камер
+
+/photo1 или /photo2 - получить фото с одной из камер
+
+/stream - запустить трансляцию с обеих камер
+
+/stream1 or /stream2 - запустить трансляцию видео с одной из камер
+
+/stop_stream - остановить трансляцию видео с камер
+
+/password - получить текущий пароль пользователя
+
+/logout - завершение сессии(отмена авторизации)
+
+Вы также можете получать снимки с любой из камер даже во время трансляции видео
+INFO    [2016-09-07 19:03:21,585] Message (id606877214) from Анна (id209524069): "/stream1"
+INFO    [2016-09-07 19:03:21,597] Sending to 209524069: Запущена трансляция видео с камеры 1
+INFO    [2016-09-07 19:03:28,305] Message (id606877215) from Анна (id209524069): "/photo1"
+INFO    [2016-09-07 19:04:00,517] Message (id606877216) from Анна (id209524069): "/photo1"
+INFO    [2016-09-07 19:05:02,317] Message (id606877217) from Анна (id209524069): "/stop_stream"
+INFO    [2016-09-07 19:05:02,373] Sending to 209524069: Трансляция остановлена
+INFO    [2016-09-09 09:41:31,068] Message (id606877218) from Анна (id209524069): "/photo"
+INFO    [2016-09-09 09:41:31,074] Sending to 209524069: Вы не авторизованы. Пожалуйста, введите пароль в течение 60 секунд.
+INFO    [2016-09-09 09:41:43,459] Message (id606877219) from Анна (id209524069): "secret_password"
+INFO    [2016-09-09 09:41:43,460] Sending to 209524069: Вы авторизованы как администратор на один час.
+INFO    [2016-09-09 09:42:27,276] Message (id606877220) from Анна (id209524069): "/help"
+INFO    [2016-09-09 09:42:27,287] Sending to 209524069: /photo - получить фото с обеих камер
+
+/photo1 или /photo2 - получить фото с одной из камер
+
+/stream - запустить трансляцию с обеих камер
+
+/stream1 or /stream2 - запустить трансляцию видео с одной из камер
+
+/stop_stream - остановить трансляцию видео с камер
+
+/password - получить текущий пароль пользователя
+
+/logout - завершение сессии(отмена авторизации)
+
+Вы также можете получать снимки с любой из камер даже во время трансляции видео
+INFO    [2016-09-09 09:42:40,227] Message (id606877221) from Анна (id209524069): "/password"
+INFO    [2016-09-09 09:42:40,232] Sending to 209524069: funnylife
+INFO    [2016-09-09 09:42:46,972] Message (id606877222) from Анна (id209524069): "/stream1"
+INFO    [2016-09-09 09:42:46,987] Sending to 209524069: Запущена трансляция видео с камеры 1
+INFO    [2016-09-09 09:45:19,276] Message (id606877223) from Анна (id209524069): "stop_stream"
+INFO    [2016-09-09 09:45:19,277] Sending to 209524069: Такой команды нет. Чтобы посмотреть список доступных команд, введите /help
+INFO    [2016-09-09 09:45:31,813] Message (id606877224) from Анна (id209524069): "/stop_stream"
+INFO    [2016-09-09 09:45:31,857] Sending to 209524069: Трансляция остановлена
+INFO    [2016-09-09 11:01:04,396] Message (id606877225) from Анна (id209524069): "/photo"
+INFO    [2016-09-09 11:01:04,398] Sending to 209524069: Вы не авторизованы. Пожалуйста, введите пароль в течение 60 секунд.
+INFO    [2016-09-09 11:01:16,835] Message (id606877226) from Анна (id209524069): "Jhh"
+INFO    [2016-09-09 11:01:16,853] Sending to 209524069: Извините, но вы ввели неправильный пароль или же истекли 60 секунд ожидания вашего ответа. Попробуйте воспользоваться ботом еще раз.
+INFO    [2016-09-09 12:16:06,390] Message (id606877227) from Анна (id209524069): "/help"
+INFO    [2016-09-09 12:16:06,392] Sending to 209524069: Вы не авторизованы. Пожалуйста, введите пароль в течение 60 секунд.
+INFO    [2016-09-09 12:16:24,700] Message (id606877228) from Анна (id209524069): "secret_password"
+INFO    [2016-09-09 12:16:24,702] Sending to 209524069: Вы авторизованы как администратор на один час.
+INFO    [2016-09-09 12:16:25,574] Sending to 209524069: /photo - получить фото с обеих камер
+
+/photo1 или /photo2 - получить фото с одной из камер
+
+/stream - запустить трансляцию с обеих камер
+
+/stream1 or /stream2 - запустить трансляцию видео с одной из камер
+
+/stop_stream - остановить трансляцию видео с камер
+
+/password - получить текущий пароль пользователя
+
+/logout - завершение сессии(отмена авторизации)
+
+Вы также можете получать снимки с любой из камер даже во время трансляции видео
+INFO    [2016-09-09 12:16:32,819] Message (id606877229) from Анна (id209524069): "/stream1"
+INFO    [2016-09-09 12:16:32,832] Sending to 209524069: Запущена трансляция видео с камеры 1
+INFO    [2016-09-09 12:18:25,233] Message (id606877230) from Анна (id209524069): "/stop_stream"
+INFO    [2016-09-09 12:18:25,291] Sending to 209524069: Трансляция остановлена
+INFO    [2016-09-09 12:18:54,905] Message (id606877231) from Анна (id209524069): "/logout"
+INFO    [2016-09-09 12:18:54,910] Sending to 209524069: Вы больше не авторизованы
+INFO    [2016-09-12 21:00:03,103] Message (id606877232) from Анна (id209524069): "Привет"
+INFO    [2016-09-12 21:00:03,111] Sending to 209524069: Вы не авторизованы. Пожалуйста, введите пароль в течение 60 секунд.
+INFO    [2016-09-12 21:00:12,906] Message (id606877233) from Анна (id209524069): "secret_password"
+INFO    [2016-09-12 21:00:12,907] Sending to 209524069: Вы авторизованы как администратор на один час.
+INFO    [2016-09-12 21:00:15,057] Sending to 209524069: Такой команды нет. Чтобы посмотреть список доступных команд, введите /help
+INFO    [2016-09-12 21:00:41,264] Message (id606877234) from Анна (id209524069): "/run_msg Привет"
+INFO    [2016-09-12 21:00:56,163] Message (id606877235) from Анна (id209524069): "/help"
+INFO    [2016-09-12 21:00:56,165] Sending to 209524069: /photo - получить фото с обеих камер
+
+/photo1 или /photo2 - получить фото с одной из камер
+
+/stream - запустить трансляцию с обеих камер
+
+/stream1 or /stream2 - запустить трансляцию видео с одной из камер
+
+/stop_stream - остановить трансляцию видео с камер
+
+/password - получить текущий пароль пользователя
+
+/logout - завершение сессии(отмена авторизации)
+
+Вы также можете получать снимки с любой из камер даже во время трансляции видео
+CRITICAL[2016-09-12 21:01:03,815] Keyboard interrupt!
+INFO    [2016-09-12 21:06:57,712] Message (id606877235) from Анна (id209524069): "/help"
+INFO    [2016-09-12 21:06:57,714] Sending to 209524069: /photo - получить фото с обеих камер
+
+/photo1 или /photo2 - получить фото с одной из камер
+
+/stream - запустить трансляцию с обеих камер
+
+/stream1 or /stream2 - запустить трансляцию видео с одной из камер
+
+/stop_stream - остановить трансляцию видео с камер
+
+/password - получить текущий пароль пользователя
+
+/logout - завершение сессии(отмена авторизации)
+
+Вы также можете получать снимки с любой из камер даже во время трансляции видео
+INFO    [2016-09-12 21:07:15,230] Message (id606877236) from Анна (id209524069): "/password"
+INFO    [2016-09-12 21:07:15,234] Sending to 209524069: funnylife
+INFO    [2016-09-12 21:07:32,529] Message (id606877237) from Анна (id209524069): "/run_msg Приветик"
+INFO    [2016-09-12 21:08:24,188] Message (id606877237) from Анна (id209524069): "/run_msg Приветик"
+INFO    [2016-09-12 21:08:49,527] Message (id606877237) from Анна (id209524069): "/run_msg Приветик"
+INFO    [2016-09-12 21:09:30,389] Message (id606877237) from Анна (id209524069): "/run_msg Приветик"
+INFO    [2016-09-12 21:09:45,249] Message (id606877238) from Анна (id209524069): "/password"
+INFO    [2016-09-12 21:09:45,253] Sending to 209524069: funnylife
+CRITICAL[2016-09-12 21:09:52,494] Keyboard interrupt!
+INFO    [2016-09-12 21:20:45,846] Message (id606877238) from Анна (id209524069): "/password"
+INFO    [2016-09-12 21:20:45,850] Sending to 209524069: funnylife
+INFO    [2016-09-12 21:21:04,368] Message (id606877239) from Анна (id209524069): "/run_msg пожалуйста"
+INFO    [2016-09-13 12:05:23,251] Message (id606877240) from Анна (id209524069): "/password"
+INFO    [2016-09-13 12:05:23,262] Sending to 209524069: funnylife
+CRITICAL[2016-09-13 12:05:46,186] Keyboard interrupt!
+INFO    [2016-09-13 12:07:07,561] Message (id606877241) from Анна (id209524069): "/run_msg Приветики!!!"
+CRITICAL[2016-09-13 12:08:02,734] Keyboard interrupt!
+INFO    [2016-09-13 12:27:45,204] Message (id606877242) from Анна (id209524069): "/password"
+INFO    [2016-09-13 12:27:45,215] Sending to 209524069: funnylife
+INFO    [2016-09-13 12:28:03,731] Message (id606877243) from Анна (id209524069): "/run_msg Приветики"
+CRITICAL[2016-09-13 12:43:28,319] Keyboard interrupt!
+CRITICAL[2016-09-24 21:33:07,083] Keyboard interrupt!
+CRITICAL[2016-09-24 21:33:12,827] Keyboard interrupt!
+CRITICAL[2016-09-24 21:33:31,974] Keyboard interrupt!
+CRITICAL[2016-09-24 21:39:30,566] Keyboard interrupt!
+CRITICAL[2016-09-27 21:10:23,133] Keyboard interrupt!
